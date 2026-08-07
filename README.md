@@ -4,7 +4,7 @@ Complete NFT collection census for Dogechain mainnet. Full chain scan of 62.5M b
 
 ## Census Summary
 
-- **42 collections** snapshotted (of 57 total ERC-721 contracts found; 15 excluded as spam/test/duplicates)
+- **40 collections** snapshotted (of 57 total ERC-721 contracts found; 17 excluded as spam/test/duplicates)
 - **4,346 holder records** across all collections (includes duplicates across collections)
 - **119,904 NFTs** mapped
 - **21 collections** have full token-level data (token ID → owner mapping via `tokenOfOwnerByIndex`)
