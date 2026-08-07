@@ -1,0 +1,14 @@
+{
+  "contract": "0x63309a2b8f507f667da75c24013a2e18904cc19d",
+  "symbol": "SOVPUNKS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "SOVPUNKS",
+  "type": "ERC-721",
+  "total_supply": 2408,
+  "holder_count": 544,
+  "total_nfts": 2408,
+  "tokens_with_ids": 2405,
+  "wallets_with_ids": 544,
+  "status": "complete"
+}

@@ -1,0 +1,14 @@
+{
+  "contract": "0x5f595ff1830b0bd9e67ae6376ad80598876cc34f",
+  "symbol": "MONOS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Monos",
+  "type": "ERC-721",
+  "total_supply": 2449,
+  "holder_count": 346,
+  "total_nfts": 2449,
+  "tokens_with_ids": 2449,
+  "wallets_with_ids": 346,
+  "status": "complete"
+}

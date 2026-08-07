@@ -1,0 +1,14 @@
+{
+  "contract": "0x8743b1cec8939e456f05194503fbb6500a3ba67d",
+  "symbol": "FTH",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Fox and the Hounds",
+  "type": "ERC-721",
+  "total_supply": 5000,
+  "holder_count": 98,
+  "total_nfts": 5000,
+  "tokens_with_ids": 1979,
+  "wallets_with_ids": 98,
+  "status": "complete"
+}

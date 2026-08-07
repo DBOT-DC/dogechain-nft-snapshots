@@ -1,0 +1,14 @@
+{
+  "contract": "0xa2e57fa488cf272c87b066e2a3e0672c0c58784d",
+  "symbol": "RAT",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "CryptoR.AT: Nightmares Edition",
+  "type": "ERC-721",
+  "total_supply": 2076,
+  "holder_count": 197,
+  "total_nfts": 2082,
+  "tokens_with_ids": 2076,
+  "wallets_with_ids": 197,
+  "status": "complete"
+}

@@ -1,0 +1,14 @@
+{
+  "contract": "0xb3c75f465f6236985c0a0ce5013c5ae7ae2748e5",
+  "symbol": "DOGEDOODLE",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "DogeDoodle",
+  "type": "ERC-721",
+  "total_supply": 1800,
+  "holder_count": 105,
+  "total_nfts": 1800,
+  "tokens_with_ids": 1800,
+  "wallets_with_ids": 105,
+  "status": "complete"
+}

@@ -1,0 +1,14 @@
+{
+  "contract": "0x6b351dc4439a9ac313f6f4d76c51f2d3717f3101",
+  "symbol": "SEADOGS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Sea Dogs",
+  "type": "ERC-721",
+  "total_supply": 1446,
+  "holder_count": 203,
+  "total_nfts": 1446,
+  "tokens_with_ids": 1446,
+  "wallets_with_ids": 203,
+  "status": "complete"
+}

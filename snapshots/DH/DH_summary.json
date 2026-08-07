@@ -1,0 +1,14 @@
+{
+  "contract": "0x1836c33b9350d18304e0f701de777cc7501e9c2a",
+  "symbol": "DH",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "The Drugged Huskies",
+  "type": "ERC-721",
+  "total_supply": 3371,
+  "holder_count": 391,
+  "total_nfts": 3371,
+  "tokens_with_ids": 3238,
+  "wallets_with_ids": 391,
+  "status": "complete"
+}

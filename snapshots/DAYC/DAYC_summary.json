@@ -1,0 +1,14 @@
+{
+  "contract": "0x79105d9bb5850bdab32aecd0fe669dcdb33d79d6",
+  "symbol": "DAYC",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Doge Ape Yatch Club",
+  "type": "ERC-721",
+  "total_supply": 2555,
+  "holder_count": 109,
+  "total_nfts": 2555,
+  "tokens_with_ids": 2555,
+  "wallets_with_ids": 109,
+  "status": "complete"
+}

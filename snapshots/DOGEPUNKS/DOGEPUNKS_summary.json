@@ -1,0 +1,14 @@
+{
+  "contract": "0xbeae0fd8ccecc76afcc137d89f2b006e8c543c84",
+  "symbol": "DOGEPUNKS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "DOGEPUNKS",
+  "type": "ERC-721",
+  "total_supply": 10000,
+  "holder_count": 436,
+  "total_nfts": 10000,
+  "tokens_with_ids": 7809,
+  "wallets_with_ids": 436,
+  "status": "complete"
+}

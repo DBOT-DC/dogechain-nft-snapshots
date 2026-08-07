@@ -1,0 +1,14 @@
+{
+  "contract": "0x49ffa5d11cb54a6541e33dc04951b1ffdfaa2852",
+  "symbol": "CYBERDOGS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Cyberdogs",
+  "type": "ERC-721",
+  "total_supply": 3333,
+  "holder_count": 174,
+  "total_nfts": 3333,
+  "tokens_with_ids": 3333,
+  "wallets_with_ids": 174,
+  "status": "complete"
+}

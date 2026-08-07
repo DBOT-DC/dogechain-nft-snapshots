@@ -1,0 +1,799 @@
+{
+  "contract": "0xa2e57fa488cf272c87b066e2a3e0672c0c58784d",
+  "name": "CryptoR.AT: Nightmares Edition",
+  "symbol": "RAT",
+  "snapshot_block": 62513098,
+  "snapshot_time": "2026-08-06T23:38:22Z",
+  "total_holders": 197,
+  "total_nfts": 2082,
+  "holders": [
+    {
+      "address": "0x3e79c89f479824bc24b9ead73eb8c55f322fe963",
+      "nft_count": 240
+    },
+    {
+      "address": "0x77ed7f217d6dacad4f88e1d9f7939006ff6c3bae",
+      "nft_count": 149
+    },
+    {
+      "address": "0xabe465c13ebd03911087bb32a32cc75499d8103c",
+      "nft_count": 130
+    },
+    {
+      "address": "0x7b576b07afa8a3f1a418360ce467de86f160b129",
+      "nft_count": 122
+    },
+    {
+      "address": "0xf27b9704a15ffe47818fd48660d952235e9c39af",
+      "nft_count": 104
+    },
+    {
+      "address": "0x8f785df8422a00215ed6067df960f63c75586101",
+      "nft_count": 70
+    },
+    {
+      "address": "0x000000000000000000000000000000000000dead",
+      "nft_count": 67
+    },
+    {
+      "address": "0xcffe6865f30dd90d58439751929605d6fa979698",
+      "nft_count": 62
+    },
+    {
+      "address": "0x56ce632320b8af872b9ef5b94c4a483a63f1ee26",
+      "nft_count": 59
+    },
+    {
+      "address": "0x5d94a7b776177aa500970cdd5b13c6c05478b8bc",
+      "nft_count": 57
+    },
+    {
+      "address": "0x52909543c4c7141cb8e0cf1de6bc4936037cf8c6",
+      "nft_count": 47
+    },
+    {
+      "address": "0x90231151cf3ac9056b349da547b888024a3522c6",
+      "nft_count": 42
+    },
+    {
+      "address": "0x2a9ee5f31d03c2756b7ad52635ef046ab9177f0e",
+      "nft_count": 42
+    },
+    {
+      "address": "0x8be23edd6c45687ee588cf6e38489db2cfc4ca3c",
+      "nft_count": 40
+    },
+    {
+      "address": "0xe4844650813b90aa6058178d4c7b2758671f6fe7",
+      "nft_count": 39
+    },
+    {
+      "address": "0xa9d85575efed45ed034e65ec6636b38118252375",
+      "nft_count": 39
+    },
+    {
+      "address": "0xcf471d457e6363b356f2348aef11668307c97da6",
+      "nft_count": 31
+    },
+    {
+      "address": "0xa86de09c366626f1d0ffb0e7a85173e94e7bc7ed",
+      "nft_count": 28
+    },
+    {
+      "address": "0x22c032d041a70150134aa350b595afe162afb993",
+      "nft_count": 25
+    },
+    {
+      "address": "0xfa91e89bb68ff4fd99fe6f41b3a604900a434ed5",
+      "nft_count": 24
+    },
+    {
+      "address": "0xc1ce096e968b98be8861aff0b7b3772ac7d37d52",
+      "nft_count": 24
+    },
+    {
+      "address": "0x24466dca230c4bf1a145af55bd352f37e821b810",
+      "nft_count": 23
+    },
+    {
+      "address": "0xce87b2f60ed456356512e152ca4a34cf6619b2ce",
+      "nft_count": 21
+    },
+    {
+      "address": "0x71f6fbf51e3ebc2ad631c6c2e4440cba9dd46fae",
+      "nft_count": 19
+    },
+    {
+      "address": "0x1b169e7b1d625ca011d7398ff6430543185d3c20",
+      "nft_count": 19
+    },
+    {
+      "address": "0x967a4e8418de12ca89320313975be5e4f33a5c2d",
+      "nft_count": 18
+    },
+    {
+      "address": "0x52b21abcae360c3c133764567fe5dcc68a0910ff",
+      "nft_count": 18
+    },
+    {
+      "address": "0x19af6e569b523147db7cada1102c90128a91724e",
+      "nft_count": 17
+    },
+    {
+      "address": "0x4e25e7938626e7c9b01732c1e627f0836262a4f8",
+      "nft_count": 16
+    },
+    {
+      "address": "0xa14c3a3a0e128070f6a749bb9342f11c1393ac30",
+      "nft_count": 15
+    },
+    {
+      "address": "0xe80f69ec5a1a0850bd0834cf44fbc90ae7a8f324",
+      "nft_count": 14
+    },
+    {
+      "address": "0xa5614830e5d71d7f3799670d2fecc5a3b7f1167d",
+      "nft_count": 13
+    },
+    {
+      "address": "0x91b741c374dc119a1b26d146e40116533b2440c6",
+      "nft_count": 13
+    },
+    {
+      "address": "0xba63309d94b4cb4436f495b34c02994c953bffe1",
+      "nft_count": 12
+    },
+    {
+      "address": "0x4524f120f9fab133516e6989b3b7fa1ed76c54bd",
+      "nft_count": 12
+    },
+    {
+      "address": "0x44b2743fc580d556b195692a2cec267896c23717",
+      "nft_count": 12
+    },
+    {
+      "address": "0x1893bfe48ac3cecf014a837d0c789fe56de783ea",
+      "nft_count": 12
+    },
+    {
+      "address": "0x1c5258640453824f6c738fe9df7a657db51866e4",
+      "nft_count": 11
+    },
+    {
+      "address": "0x772e4dd9509e20aa8a575023b5b6e33a114db74a",
+      "nft_count": 10
+    },
+    {
+      "address": "0x74ff926d8dc46984b09c9c11247bed8dc2b60b73",
+      "nft_count": 10
+    },
+    {
+      "address": "0x2f37762456f82facc2cec917e4df60f953b2a8ad",
+      "nft_count": 10
+    },
+    {
+      "address": "0xbdf8ec4824b4c226f2fc40b8ff966aa6aa4d9812",
+      "nft_count": 9
+    },
+    {
+      "address": "0x7ec03e4db5033dc07994779adbceaae71ca30a49",
+      "nft_count": 9
+    },
+    {
+      "address": "0x53270d44eee663e509f0b715525703b12c353e30",
+      "nft_count": 9
+    },
+    {
+      "address": "0x117ace05f0fbeb221933d575343e928aceb7fda5",
+      "nft_count": 8
+    },
+    {
+      "address": "0xec6abbd0b5f5026fdd0cccd262eaed6990959250",
+      "nft_count": 7
+    },
+    {
+      "address": "0xcf48a59efeb216c6ab1a8b48e74c9beaf448143b",
+      "nft_count": 7
+    },
+    {
+      "address": "0x6a697224427fbed77c48fd7080b7bf58bb0eb293",
+      "nft_count": 7
+    },
+    {
+      "address": "0xf78a74f82dddeff04ec42a6634d433689cda09a9",
+      "nft_count": 6
+    },
+    {
+      "address": "0xb12aa8282b00de547fda518cff984a375a61a29d",
+      "nft_count": 6
+    },
+    {
+      "address": "0x747dff8a212d27e491a90370d24669d200811bc5",
+      "nft_count": 6
+    },
+    {
+      "address": "0x5bdc97ef6db3f69ba6e4d73550aa57e54a966713",
+      "nft_count": 6
+    },
+    {
+      "address": "0x19b3e86d70a99d24c748ecbc473818c0d50dc7ba",
+      "nft_count": 6
+    },
+    {
+      "address": "0x197ab17883354aaf0255ecf0c2295aee30950e52",
+      "nft_count": 6
+    },
+    {
+      "address": "0x6193aac56cc4121c1c0558ee548b6e7bb02d7660",
+      "nft_count": 5
+    },
+    {
+      "address": "0x5e2d4dcbdc864afa6094a6b93e2b6813fe3d560d",
+      "nft_count": 5
+    },
+    {
+      "address": "0x460352a43672f5d3dbfaa1ae8ee4fddbc00e6033",
+      "nft_count": 5
+    },
+    {
+      "address": "0x09e0178f584954b9366138c00e1870a59d7cc3e6",
+      "nft_count": 5
+    },
+    {
+      "address": "0x09b44efa943093e6a448b4cf25d150ef44b4ed54",
+      "nft_count": 5
+    },
+    {
+      "address": "0x034444fc0b628deea01b3a1fdbd4a8d46edeb48e",
+      "nft_count": 5
+    },
+    {
+      "address": "0xff3dae5a61f57498f98261574a19e334a55bd48a",
+      "nft_count": 4
+    },
+    {
+      "address": "0xf491858eb93248d20f3bc23e93bd033c043ae52b",
+      "nft_count": 4
+    },
+    {
+      "address": "0xf265f377b38b3cd8c744aa6e863f62a1b51e6523",
+      "nft_count": 4
+    },
+    {
+      "address": "0xf24bf38435ff7152c7210617faa6d706e8e58678",
+      "nft_count": 4
+    },
+    {
+      "address": "0xe5c1ea5da831465c65610274e63ba3b377bf5705",
+      "nft_count": 4
+    },
+    {
+      "address": "0xc70a21a83f9b24777495f231445df69ca69898a2",
+      "nft_count": 4
+    },
+    {
+      "address": "0xa668b7357a66ab798050c328cd80c8443e09f5da",
+      "nft_count": 4
+    },
+    {
+      "address": "0x8c0087a31a7539d2392d8514db3d0adda6d9bf2f",
+      "nft_count": 4
+    },
+    {
+      "address": "0x308ff48fc1542469e8493237b8c5613c2a49f706",
+      "nft_count": 4
+    },
+    {
+      "address": "0x24d1349889f96886f9ac8dd75077e655e0f61c4a",
+      "nft_count": 4
+    },
+    {
+      "address": "0x155a8f5490903d69ba7fb23ee2a48df37fa612b5",
+      "nft_count": 4
+    },
+    {
+      "address": "0xedd5e266ea99e5808f8c3c67b82b8a08c20411e9",
+      "nft_count": 3
+    },
+    {
+      "address": "0xea6c44b81ee95685c187d9da52766cdf3d426afa",
+      "nft_count": 3
+    },
+    {
+      "address": "0xdb65729e451b562ad000919035e4d32980c73eb4",
+      "nft_count": 3
+    },
+    {
+      "address": "0xd0c7bece727a8894f750919078505f83348a045b",
+      "nft_count": 3
+    },
+    {
+      "address": "0xc8d8d70173f00d738c66b08c01a4b0deda09dcb9",
+      "nft_count": 3
+    },
+    {
+      "address": "0x989693df2da055fe2c1fc87c77eceacbaabd4adf",
+      "nft_count": 3
+    },
+    {
+      "address": "0x92ddd574ee24dcb18eb0fb8464b017047734725f",
+      "nft_count": 3
+    },
+    {
+      "address": "0x6b3207d893bb1f140ff1caf58ecd9c61c49562af",
+      "nft_count": 3
+    },
+    {
+      "address": "0x40186d59544da360a132f35e38bff9e2c2116cb6",
+      "nft_count": 3
+    },
+    {
+      "address": "0x205eba0fb8805199f56069f8da78e28ece5244ba",
+      "nft_count": 3
+    },
+    {
+      "address": "0x1c12966f0b495dc83509a3c45fdef473d0c1d05e",
+      "nft_count": 3
+    },
+    {
+      "address": "0xffd3fae766941657b1270d1cde7f0a6a2bcc0538",
+      "nft_count": 2
+    },
+    {
+      "address": "0xfd5d001eecee184e8730af78d716391dd908a2e9",
+      "nft_count": 2
+    },
+    {
+      "address": "0xf8ac28024cce1c780debec00d10f5f0376f651db",
+      "nft_count": 2
+    },
+    {
+      "address": "0xee04f59b80daf169e3dab9581a2de0c05095666f",
+      "nft_count": 2
+    },
+    {
+      "address": "0xe17152c64bb1707346d7f92ee9f8184983189f32",
+      "nft_count": 2
+    },
+    {
+      "address": "0xd6c9165b33d6bdb623540c9fbdfdab33ed219502",
+      "nft_count": 2
+    },
+    {
+      "address": "0xd49322add203c8e04acdd53b7ff14b5e0ac861d7",
+      "nft_count": 2
+    },
+    {
+      "address": "0xcf5b23f34784ac0389a9f476ef017afc71844420",
+      "nft_count": 2
+    },
+    {
+      "address": "0xbca6a7863eb20bdd714f59272a5abb118e92413f",
+      "nft_count": 2
+    },
+    {
+      "address": "0xb7130b42b8c62e14fd614e91ab9c6c194040d9ab",
+      "nft_count": 2
+    },
+    {
+      "address": "0xb3888d9088dacd776e5077baa4b8de202aad26f0",
+      "nft_count": 2
+    },
+    {
+      "address": "0xb262258aa68ef4ec6a38d2d2a01921c3bc578f23",
+      "nft_count": 2
+    },
+    {
+      "address": "0xaaddd38d0e6ee4fa5df0856416803624baf82532",
+      "nft_count": 2
+    },
+    {
+      "address": "0xa8f53d0ab7fb901e490a40be5a089275fea96cdd",
+      "nft_count": 2
+    },
+    {
+      "address": "0xa088ad1170ea3e33305521efbdd52bdbb7382c72",
+      "nft_count": 2
+    },
+    {
+      "address": "0x95e343297bf06616a43511a345294f7fac2ce7b9",
+      "nft_count": 2
+    },
+    {
+      "address": "0x94b56a20eb8898d3783c1b6f3d23ef6390d71812",
+      "nft_count": 2
+    },
+    {
+      "address": "0x92bc60bb712444aeacb635cdae28d741a6f51733",
+      "nft_count": 2
+    },
+    {
+      "address": "0x9212e88750a88b8000668b8785513e5b34dd1c82",
+      "nft_count": 2
+    },
+    {
+      "address": "0x6c8917547a0dd8d3a9658de9176837cfa9dd8933",
+      "nft_count": 2
+    },
+    {
+      "address": "0x6b091ec6c77ebafac15ff88f34c89a4b0b032791",
+      "nft_count": 2
+    },
+    {
+      "address": "0x688a46b1a19193011f0f5dc4675878073f640c89",
+      "nft_count": 2
+    },
+    {
+      "address": "0x64e91922a01150db694bbf3500f6d178b1647079",
+      "nft_count": 2
+    },
+    {
+      "address": "0x4968265806cd1cf2dda169e56b2c7d1e8af9d8ee",
+      "nft_count": 2
+    },
+    {
+      "address": "0x43a2aeec73632cc8fb66251dc9e911af87278377",
+      "nft_count": 2
+    },
+    {
+      "address": "0x2ef1d28e1d9f15e467467b3e0a742b9f99a62fd0",
+      "nft_count": 2
+    },
+    {
+      "address": "0x2ebe15ef332869303adc78c9f7344693936022d1",
+      "nft_count": 2
+    },
+    {
+      "address": "0x1b6ced2c1be7e3c1f188f8843a7b4b538fdae26a",
+      "nft_count": 2
+    },
+    {
+      "address": "0x076fcf9979ceffbf8d9f5e86b4273971ee508ea0",
+      "nft_count": 2
+    },
+    {
+      "address": "0x00e7de2ff77b46e70f9c9bece7fdb0e6d3547510",
+      "nft_count": 2
+    },
+    {
+      "address": "0x004db9514506c4f9c842036cbc05ef9a6be21c25",
+      "nft_count": 2
+    },
+    {
+      "address": "0x000000001a3494ed0ee59623ffaa46995a6c99a9",
+      "nft_count": 2
+    },
+    {
+      "address": "0xfe36aacbcf5677a4a04288764c16acb4220894b9",
+      "nft_count": 1
+    },
+    {
+      "address": "0xf9670f0636384c704f268a68bb5aace8b410cb7d",
+      "nft_count": 1
+    },
+    {
+      "address": "0xf5e8cf9d825d5af478b00d396b80695e5701d881",
+      "nft_count": 1
+    },
+    {
+      "address": "0xf3cd7261f2515c815d2bc0bc509ff38e45e05d6d",
+      "nft_count": 1
+    },
+    {
+      "address": "0xf26bc07453788625de564b22dc57af2c519fdf44",
+      "nft_count": 1
+    },
+    {
+      "address": "0xf1b83482bf6c07615168a474450fa626f9d568df",
+      "nft_count": 1
+    },
+    {
+      "address": "0xec52ddaf96fa03c48a5c5472a8d049dda28d4e50",
+      "nft_count": 1
+    },
+    {
+      "address": "0xe7aa9c4cbb154850d5161fca4f3f7e5058ba4a3e",
+      "nft_count": 1
+    },
+    {
+      "address": "0xe1df81188597a1a2300285c5abdefa3f47c9d173",
+      "nft_count": 1
+    },
+    {
+      "address": "0xe046e97b43bfe688c739012b12606a8963418610",
+      "nft_count": 1
+    },
+    {
+      "address": "0xdc2465bf1ab0b095ee8e79936255993744e8a4de",
+      "nft_count": 1
+    },
+    {
+      "address": "0xdafa831ca4357ef181ad5f32ad887c086ba780fc",
+      "nft_count": 1
+    },
+    {
+      "address": "0xd61eaeefc180e6b4d744cb18a8a123e668ccae6b",
+      "nft_count": 1
+    },
+    {
+      "address": "0xd560ae20cccadccf5398b98df181ba17f2bea385",
+      "nft_count": 1
+    },
+    {
+      "address": "0xd2647b01935baf749fa3e423702e10d70567142b",
+      "nft_count": 1
+    },
+    {
+      "address": "0xcb9040f4be7127cd663d4905de1b63972493c20e",
+      "nft_count": 1
+    },
+    {
+      "address": "0xc3eebd580d94190bf74abddda8a7964820892098",
+      "nft_count": 1
+    },
+    {
+      "address": "0xc3167235ef7f9811b0d80dfca76e3e58788dae2c",
+      "nft_count": 1
+    },
+    {
+      "address": "0xc02110da0218a985d3b1537c344ed91a8379cfd9",
+      "nft_count": 1
+    },
+    {
+      "address": "0xbf75d7db925ee6cbb1308614d14be424c433ba63",
+      "nft_count": 1
+    },
+    {
+      "address": "0xbc35c9feae7016e2226018f1b91a0c1c5d6bf86c",
+      "nft_count": 1
+    },
+    {
+      "address": "0xbbc9e9d917a360c16a8c81b4ffc7a60f781430f8",
+      "nft_count": 1
+    },
+    {
+      "address": "0xb72362b75e3f2cf3b78bee9430abc863f47363a8",
+      "nft_count": 1
+    },
+    {
+      "address": "0xb41fc65328fa5276ed2d5897114148eec3d0b67c",
+      "nft_count": 1
+    },
+    {
+      "address": "0xb3fa9f4d80759bdd13cb267721deaac39f746395",
+      "nft_count": 1
+    },
+    {
+      "address": "0xae993b67d3a7eccb9f524203ab0d3029a7d98c5b",
+      "nft_count": 1
+    },
+    {
+      "address": "0xab68c7a2d0f64fdf2ef73305317303656f1d48f9",
+      "nft_count": 1
+    },
+    {
+      "address": "0xa649a7b78071da654e677cd4bb7a55949911a483",
+      "nft_count": 1
+    },
+    {
+      "address": "0xa5eefb7a5b6ef45e8b18c978d443ccafd38b6196",
+      "nft_count": 1
+    },
+    {
+      "address": "0xa3cc3b3e39ae61b3155b9f288686fa5f5fbf3389",
+      "nft_count": 1
+    },
+    {
+      "address": "0xa356bd51d28eece59e94acc6faba7ce05c36c619",
+      "nft_count": 1
+    },
+    {
+      "address": "0xa1b34e47057f0dcf701b27f4c2ab5bc988b559c3",
+      "nft_count": 1
+    },
+    {
+      "address": "0x9d4edf68f951b5d66a977b788ba369aa1eadc22c",
+      "nft_count": 1
+    },
+    {
+      "address": "0x9a6ad1fac51dfcd547ceeabe95031975a0436ad5",
+      "nft_count": 1
+    },
+    {
+      "address": "0x99d650beb855b5d71f7de343b3444fc5ad29165a",
+      "nft_count": 1
+    },
+    {
+      "address": "0x99645a9761da8586e134af9827cd06ce78e25be3",
+      "nft_count": 1
+    },
+    {
+      "address": "0x9452a94e92d3bf33f5f441c1b6dc4be58d1967f5",
+      "nft_count": 1
+    },
+    {
+      "address": "0x92b3f1d6b0595ff8b87ffa1e260d66e0f92e8780",
+      "nft_count": 1
+    },
+    {
+      "address": "0x923f4afc77a7451579ce0e8b0f647426951bf064",
+      "nft_count": 1
+    },
+    {
+      "address": "0x8569ef609201027613095524db44e440f8efd133",
+      "nft_count": 1
+    },
+    {
+      "address": "0x85660e7d520f778d51b11fa6076ab5ddcdd9fc13",
+      "nft_count": 1
+    },
+    {
+      "address": "0x81cdd171dbd705c2c8ea3993aa40029b9c93997c",
+      "nft_count": 1
+    },
+    {
+      "address": "0x809cbfa0a0436ee63acd14673d99c075925020dd",
+      "nft_count": 1
+    },
+    {
+      "address": "0x7f91b4918ceb5b5d9dce382b227d9bf6ce9f6c45",
+      "nft_count": 1
+    },
+    {
+      "address": "0x7991d2f58b93d0030e0bdadc2093d85f07d5a27e",
+      "nft_count": 1
+    },
+    {
+      "address": "0x774dda5992f1769ff4576a06c6dd90f67f934e6c",
+      "nft_count": 1
+    },
+    {
+      "address": "0x75be1443985f6830740afb1d30cbeda676490cb5",
+      "nft_count": 1
+    },
+    {
+      "address": "0x6fcf723ca68ca6ca1921dceeb700da17c950d084",
+      "nft_count": 1
+    },
+    {
+      "address": "0x6d573c89d04c303bbefca99b6f3d94793cf72529",
+      "nft_count": 1
+    },
+    {
+      "address": "0x6c1cc019559b5682d627953d08a91c94a80df1a5",
+      "nft_count": 1
+    },
+    {
+      "address": "0x67cc3805eab6d34c2805e9819df031ba8ea55b46",
+      "nft_count": 1
+    },
+    {
+      "address": "0x60ecffcd16b527bf77e6c6d2b02bc5b127123dbe",
+      "nft_count": 1
+    },
+    {
+      "address": "0x54a62bb1953573d6cfb3468aebf4c1e5320e26ad",
+      "nft_count": 1
+    },
+    {
+      "address": "0x52a72e835ce5bb3d3416e851970e8b367b74522a",
+      "nft_count": 1
+    },
+    {
+      "address": "0x50b78f0e3063a2cb4f6f888d6da2edeb2dc6f0f2",
+      "nft_count": 1
+    },
+    {
+      "address": "0x4c0f89ce9c9a9d95c1e0f6ded8fd77c02d4e85f7",
+      "nft_count": 1
+    },
+    {
+      "address": "0x4ab8d0b24ef491be06dc640e03d0c52a49d17254",
+      "nft_count": 1
+    },
+    {
+      "address": "0x49f3642522034a2faac4dd75f1a2988617b32f2f",
+      "nft_count": 1
+    },
+    {
+      "address": "0x494cd28fea13a5abd4ad909c94d648f5a48864ec",
+      "nft_count": 1
+    },
+    {
+      "address": "0x44e4b80e4cdeb4d641168580c284859fcfb84f16",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3beb676fa08879ea70e9ca788b0cbd082dccebe4",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3b202fe73a4932381aa05e94b6a95fd08174e0ed",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3ab3ceaef5428a20879bf819712f294c6804346c",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3a02e6a4c53e3c03b3f755c04b0f0cb8117b7c64",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3591da3131ca6139ec4b3661919282392d9e739c",
+      "nft_count": 1
+    },
+    {
+      "address": "0x3506e5f79754e8aad83152b8e6189b6c5508aad4",
+      "nft_count": 1
+    },
+    {
+      "address": "0x2ea8f548b62bfd6a6f07030fab78e07eaa5756a0",
+      "nft_count": 1
+    },
+    {
+      "address": "0x2a62a4cb29bf17e8b145ca83c9ec0d999892846b",
+      "nft_count": 1
+    },
+    {
+      "address": "0x2909991a8e87e7198767141125937c2238208c5f",
+      "nft_count": 1
+    },
+    {
+      "address": "0x22f4194f6706e70abaa14ab352d0baa6c7ced24a",
+      "nft_count": 1
+    },
+    {
+      "address": "0x1ff69ae4484712c1d63653f71720bc71357779c6",
+      "nft_count": 1
+    },
+    {
+      "address": "0x1f7032558a46aed0992469e06d15336a1d8cfa1f",
+      "nft_count": 1
+    },
+    {
+      "address": "0x184d17ea9250897757bbe6938610e2280d2e1fa4",
+      "nft_count": 1
+    },
+    {
+      "address": "0x18339ce4dcd270a98eedaf69143b0daca551cfdd",
+      "nft_count": 1
+    },
+    {
+      "address": "0x1671c3b19a014a57a7467b9beb50117f2405e193",
+      "nft_count": 1
+    },
+    {
+      "address": "0x1601973e782c5073131bf032b43dbe80078a2d65",
+      "nft_count": 1
+    },
+    {
+      "address": "0x1386146dec79e3d90650f1bd25e7a4c321c01143",
+      "nft_count": 1
+    },
+    {
+      "address": "0x11a15c04817042dbb738a58150f341331f7265b0",
+      "nft_count": 1
+    },
+    {
+      "address": "0x0ce27c83f1497fe213c4910765453eaabc98dd4a",
+      "nft_count": 1
+    },
+    {
+      "address": "0x08285192d4f6283a00ed9444b0bfbc67663972c0",
+      "nft_count": 1
+    },
+    {
+      "address": "0x0608037fd563fa0d159adb934ffc9035df56fb88",
+      "nft_count": 1
+    },
+    {
+      "address": "0x05c83944ac74f85c260369b39331ee51cc041d8a",
+      "nft_count": 1
+    },
+    {
+      "address": "0x0233423421504d0c42688dbb795d922a227c62a0",
+      "nft_count": 1
+    }
+  ]
+}

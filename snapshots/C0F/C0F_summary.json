@@ -1,0 +1,14 @@
+{
+  "contract": "0xe46727bb5b84d574ecca7e562a36c23525fcf8dc",
+  "symbol": "C0F",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Council of Frogs",
+  "type": "ERC-721",
+  "total_supply": 649,
+  "holder_count": 118,
+  "total_nfts": 765,
+  "tokens_with_ids": 649,
+  "wallets_with_ids": 114,
+  "status": "complete"
+}

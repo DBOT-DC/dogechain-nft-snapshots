@@ -1,0 +1,14 @@
+{
+  "contract": "0x81c3164939f515134f6be6b6f9d295887df6554b",
+  "symbol": "ASTRO",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Doge Astronauts",
+  "type": "ERC-721",
+  "total_supply": 231,
+  "holder_count": 95,
+  "total_nfts": 231,
+  "tokens_with_ids": 0,
+  "wallets_with_ids": 0,
+  "status": "complete"
+}

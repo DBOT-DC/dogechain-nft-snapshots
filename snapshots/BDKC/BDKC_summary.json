@@ -1,0 +1,14 @@
+{
+  "contract": "0x544870cc7ff94a50e507262b98060f6b15835fde",
+  "symbol": "BDKC",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Bored Doge Kennels Club",
+  "type": "ERC-721",
+  "total_supply": 1774,
+  "holder_count": 82,
+  "total_nfts": 1774,
+  "tokens_with_ids": 1774,
+  "wallets_with_ids": 82,
+  "status": "complete"
+}

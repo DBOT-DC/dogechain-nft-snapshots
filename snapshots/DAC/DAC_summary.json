@@ -1,0 +1,14 @@
+{
+  "contract": "0x58f2fea3d66025cdedbc37b5bcd93647d76d7325",
+  "symbol": "DAC",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "DogeApeClub",
+  "type": "ERC-721",
+  "total_supply": 1043,
+  "holder_count": 118,
+  "total_nfts": 1043,
+  "tokens_with_ids": 1043,
+  "wallets_with_ids": 118,
+  "status": "complete"
+}

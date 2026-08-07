@@ -1,0 +1,142 @@
+[
+  {
+    "address": "0x0b012055f770ae7bb7a8303968a7fb6088a2296e",
+    "name": "Algebra Positions NFT-V1",
+    "symbol": "ALGB-POS",
+    "totalSupply": "8629",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xd38b22794b308a2e55808a13d1e6a80c4be94fd5",
+    "name": "Realdogepunks",
+    "symbol": "RDP",
+    "totalSupply": "10000",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xb6e6b0167ce72057f6ac28cb5fd836896b4d084e",
+    "name": "DogeBears",
+    "symbol": "DB",
+    "totalSupply": "10000",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x1836c33b9350d18304e0f701de777cc7501e9c2a",
+    "name": "The Drugged Huskies",
+    "symbol": "DH",
+    "totalSupply": "3371",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x9b291b0e9c78ce1c94b701d3d9faad349c4be341",
+    "name": "Doge Blinders",
+    "symbol": "DB",
+    "totalSupply": "10000",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x8743b1cec8939e456f05194503fbb6500a3ba67d",
+    "name": "Fox and the Hounds",
+    "symbol": "FTH",
+    "totalSupply": "5000",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x5f595ff1830b0bd9e67ae6376ad80598876cc34f",
+    "name": "Monos",
+    "symbol": "MONOS",
+    "totalSupply": "2449",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x01d675a61d94aea570007374d85301d6619d9e6e",
+    "name": "McRibPixels",
+    "symbol": "McRIB Pix",
+    "totalSupply": "638",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x49ffa5d11cb54a6541e33dc04951b1ffdfaa2852",
+    "name": "Cyberdogs",
+    "symbol": "Dogs",
+    "totalSupply": "3333",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xbeae0fd8ccecc76afcc137d89f2b006e8c543c84",
+    "name": "DOGEPUNKS",
+    "symbol": "PUNKS",
+    "totalSupply": "10000",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x63309a2b8f507f667da75c24013a2e18904cc19d",
+    "name": "SOVPUNKS",
+    "symbol": "SOVP",
+    "totalSupply": "2408",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x6b351dc4439a9ac313f6f4d76c51f2d3717f3101",
+    "name": "Sea Dogs",
+    "symbol": "$SEAD",
+    "totalSupply": "1446",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xec10d3091abffcc89f0cca5ae90842f5628bfb56",
+    "name": "DogeChain Chimps",
+    "symbol": "DCC",
+    "totalSupply": "3666",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x544870cc7ff94a50e507262b98060f6b15835fde",
+    "name": "Bored Doge Kennels Club",
+    "symbol": "BDKC",
+    "totalSupply": "1774",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x58f2fea3d66025cdedbc37b5bcd93647d76d7325",
+    "name": "DogeApeClub",
+    "symbol": "DAC",
+    "totalSupply": "1043",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x79105d9bb5850bdab32aecd0fe669dcdb33d79d6",
+    "name": "Doge Ape Yatch Club",
+    "symbol": "DAYC",
+    "totalSupply": "2555",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0x81c3164939f515134f6be6b6f9d295887df6554b",
+    "name": "Doge Astronauts",
+    "symbol": "ASTRO",
+    "totalSupply": "231",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xb3c75f465f6236985c0a0ce5013c5ae7ae2748e5",
+    "name": "DogeDoodle",
+    "symbol": "Dogedoodle",
+    "totalSupply": "1800",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xf6ee4a3f8529a6b20b8f4792a0ea20a419ba21f5",
+    "name": "PixelFrogs",
+    "symbol": "Frog",
+    "totalSupply": "666",
+    "type": "ERC-721"
+  },
+  {
+    "address": "0xa2e57fa488cf272c87b066e2a3e0672c0c58784d",
+    "name": "CryptoR.AT: Nightmares Edition",
+    "symbol": "RAT",
+    "totalSupply": "2076",
+    "type": "ERC-721"
+  }
+]

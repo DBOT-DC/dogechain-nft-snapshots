@@ -1,0 +1,14 @@
+{
+  "contract": "0x9b291b0e9c78ce1c94b701d3d9faad349c4be341",
+  "symbol": "DOGE-BLINDERS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Doge Blinders",
+  "type": "ERC-721",
+  "total_supply": 10000,
+  "holder_count": 229,
+  "total_nfts": 10000,
+  "tokens_with_ids": 3500,
+  "wallets_with_ids": 229,
+  "status": "complete"
+}

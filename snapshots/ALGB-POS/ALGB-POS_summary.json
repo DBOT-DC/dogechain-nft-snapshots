@@ -1,0 +1,14 @@
+{
+  "contract": "0x0b012055f770ae7bb7a8303968a7fb6088a2296e",
+  "symbol": "ALGB-POS",
+  "snapshot_block": 62514232,
+  "snapshot_time": "2026-08-07T00:16:08Z",
+  "name": "Algebra Positions NFT-V1",
+  "type": "ERC-721",
+  "total_supply": 8629,
+  "holder_count": 1606,
+  "total_nfts": 8627,
+  "tokens_with_ids": 8627,
+  "wallets_with_ids": 1606,
+  "status": "complete"
+}
