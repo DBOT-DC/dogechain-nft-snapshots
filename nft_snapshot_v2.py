@@ -72,15 +72,18 @@ ALL_NFTS = [
 ]
 
 
-def rpc(method, params, retries=3):
+def rpc(method, params, retries=5):
     body = json.dumps({"jsonrpc": "2.0", "method": method, "params": params, "id": 1}).encode()
     for attempt in range(retries):
         try:
             req = urllib.request.Request(RPC, data=body, headers={"Content-Type": "application/json"})
-            return json.loads(urllib.request.urlopen(req, timeout=15).read()).get("result")
-        except:
+            return json.loads(urllib.request.urlopen(req, timeout=30).read()).get("result")
+        except Exception as e:
             if attempt < retries - 1:
-                time.sleep(1 * (attempt + 1))
+                wait = 2 * (attempt + 1)
+                time.sleep(wait)
+            else:
+                print(f"    RPC FAILED after {retries} retries: {method} — {e}")
     return None
 
 
@@ -138,7 +141,7 @@ def get_token_ids_for_wallet(contract, wallet, nft_count):
             token_ids.append(token_id)
         else:
             break
-        time.sleep(0.02)  # light rate limiting
+        time.sleep(0.05)  # rate limiting — 0.05s per call to avoid RPC hang
     return token_ids
 
 
