@@ -1,0 +1,294 @@
+{
+  "snapshot_time": "2026-08-08T11:16:30Z",
+  "rpc": "https://rpc01.dogechain.dog",
+  "collections": [
+    {
+      "snapshot_symbol": "$SEAD",
+      "address": "0x6b351dc4439a9ac313f6f4d76c51f2d3717f3101",
+      "supply": 1446,
+      "name": "Sea Dogs",
+      "contract_symbol": "$SEAD",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://QmRg6oBmedhE66x539HdqeLjrwK79FjNJzfWp2gDdbG5h2/1.json"
+    },
+    {
+      "snapshot_symbol": "ALGB-FARM",
+      "address": "0x82831e9565cb574375596efc090da465283e22a4",
+      "supply": 160,
+      "name": "Algebra Farming NFT-V2",
+      "contract_symbol": "ALGB-FARM",
+      "tokenURI_0": null,
+      "tokenURI_1": ""
+    },
+    {
+      "snapshot_symbol": "ALGB-POS",
+      "address": "0x0b012055f770ae7bb7a8303968a7fb6088a2296e",
+      "supply": 8629,
+      "name": "Algebra Positions NFT-V1",
+      "contract_symbol": "ALGB-POS",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "ASTRO",
+      "address": "0x81c3164939f515134f6be6b6f9d295887df6554b",
+      "supply": 231,
+      "name": "Doge Astronauts",
+      "contract_symbol": "ASTRO",
+      "tokenURI_0": "ipfs://QmTpXxVuaHnPaTDLnB8c6FAgdbX4zsgcXPVo8x5uvTci9R/0",
+      "tokenURI_1": "ipfs://QmTpXxVuaHnPaTDLnB8c6FAgdbX4zsgcXPVo8x5uvTci9R/1"
+    },
+    {
+      "snapshot_symbol": "BDKC",
+      "address": "0x870fb39328958d9d363ddb88c2e6a4a32a5bef11",
+      "supply": 1732,
+      "name": "Bored Doge Kennel Club",
+      "contract_symbol": "BDKC",
+      "tokenURI_0": "https://raw.githubusercontent.com/oliviachef/BKYC/main/metadata/0.json",
+      "tokenURI_1": "https://raw.githubusercontent.com/oliviachef/BKYC/main/metadata/1.json"
+    },
+    {
+      "snapshot_symbol": "BDKC2",
+      "address": "0x870fb39328958d9d363ddb88c2e6a4a32a5bef11",
+      "supply": 1732,
+      "name": "Bored Doge Kennel Club",
+      "contract_symbol": "BDKC",
+      "tokenURI_0": "https://raw.githubusercontent.com/oliviachef/BKYC/main/metadata/0.json",
+      "tokenURI_1": "https://raw.githubusercontent.com/oliviachef/BKYC/main/metadata/1.json"
+    },
+    {
+      "snapshot_symbol": "CChimp",
+      "address": "0x58ad22348216bdb0a3a544ad365ee82187d0e8aa",
+      "supply": 3666,
+      "name": "CherisherChimp",
+      "contract_symbol": "CChimp",
+      "tokenURI_0": "https://raw.githubusercontent.com/oliviachef/chimpers/main/0.json",
+      "tokenURI_1": "https://raw.githubusercontent.com/oliviachef/chimpers/main/1.json"
+    },
+    {
+      "snapshot_symbol": "DAC",
+      "address": "0x58f2fea3d66025cdedbc37b5bcd93647d76d7325",
+      "supply": 1043,
+      "name": "DogeApeClub",
+      "contract_symbol": "DAC",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "DAYC",
+      "address": "0xbaff37aa3667abb92d9d10c2b0a1d4128033c4df",
+      "supply": 10000,
+      "name": "Doge Ape Yacht Club",
+      "contract_symbol": "DAYC",
+      "tokenURI_0": null,
+      "tokenURI_1": "https://bafybeif22hdvvdl77m3jak7jurcets2jmroeg4nhj3n3cu6pvoiby6n7di.ipfs.nftstorage.link/1.json"
+    },
+    {
+      "snapshot_symbol": "DB",
+      "address": "0xb6e6b0167ce72057f6ac28cb5fd836896b4d084e",
+      "supply": 10000,
+      "name": "DogeBears",
+      "contract_symbol": "DB",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://bafybeiexbr7264djrc37domydv65yzkkmnm6vmurrhiwvmpfjfhviq7qy4/1.json"
+    },
+    {
+      "snapshot_symbol": "DCC",
+      "address": "0xfb035ab15a174f6c0702901e7b2a24db8f8cd026",
+      "supply": 3666,
+      "name": "DogeChain Chimps",
+      "contract_symbol": "DCC",
+      "tokenURI_0": "https://raw.githubusercontent.com/oliviachef/chimpers/main/0.json",
+      "tokenURI_1": "https://raw.githubusercontent.com/oliviachef/chimpers/main/1.json"
+    },
+    {
+      "snapshot_symbol": "DCP",
+      "address": "0x474faddd73b6ff260efd281b4eb375a6fd7ea9bc",
+      "supply": 140,
+      "name": "Dogechain Paws",
+      "contract_symbol": "DCP",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "DDB",
+      "address": "0xfed9e67c30c76e416371b4763fc02f8a33e52b5d",
+      "supply": 3333,
+      "name": "Doge DickButts",
+      "contract_symbol": "DDB",
+      "tokenURI_0": "ipfs://QmXucZ4Su3AfP5jc9vRRLaRhTkZHdEVuQCKReeAB8wRAiZ/0",
+      "tokenURI_1": "ipfs://QmXucZ4Su3AfP5jc9vRRLaRhTkZHdEVuQCKReeAB8wRAiZ/1"
+    },
+    {
+      "snapshot_symbol": "DG",
+      "address": "0x011f614b13ef08b905a2ae68443f6344cce32046",
+      "supply": 3466,
+      "name": "DogeGang",
+      "contract_symbol": "DG",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "DH",
+      "address": "0x1836c33b9350d18304e0f701de777cc7501e9c2a",
+      "supply": 3371,
+      "name": "The Drugged Huskies",
+      "contract_symbol": "DH",
+      "tokenURI_0": "https://arweave.net/xu3Zu0KJHlKlKc1inhX5DBVccYM9GZpofFsKnFuxVlg/0.json",
+      "tokenURI_1": "https://arweave.net/xu3Zu0KJHlKlKc1inhX5DBVccYM9GZpofFsKnFuxVlg/1.json"
+    },
+    {
+      "snapshot_symbol": "Dogedoodle",
+      "address": "0xb3c75f465f6236985c0a0ce5013c5ae7ae2748e5",
+      "supply": 1800,
+      "name": "DogeDoodle",
+      "contract_symbol": "Dogedoodle",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://QmdW2E2b8u5EJbGzCqDSQh5RdQBBndzsVonzH4TpLKvNSL/1.json"
+    },
+    {
+      "snapshot_symbol": "Dogs",
+      "address": "0x49ffa5d11cb54a6541e33dc04951b1ffdfaa2852",
+      "supply": 3333,
+      "name": "Cyberdogs",
+      "contract_symbol": "Dogs",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://QmXcQ5u7q7Jv5zrzEyu8RCKRCRMiNt48TVm9CALQZLZPi5/1.json"
+    },
+    {
+      "snapshot_symbol": "ED",
+      "address": "0x49b958133b53f3a0ebfb9c81d6a080b1439174d2",
+      "supply": 1000000000,
+      "name": "Eden",
+      "contract_symbol": "ED",
+      "tokenURI_0": null,
+      "tokenURI_1": "https://eden.dog/public/uploads/nfts/1690266095_5afc20433ab3df064d6a.jpg"
+    },
+    {
+      "snapshot_symbol": "FFNFTS",
+      "address": "0x45944dd5145ac7815d29c8c5d7c7f1801a7aa6c3",
+      "supply": 482,
+      "name": "FurryFensNFT",
+      "contract_symbol": "FFNFTS",
+      "tokenURI_0": "ipfs://QmZ5ae5Cg2pzxFsZatAuDuUnj5Dcap1VxFdUTqmysPC3Ep/0",
+      "tokenURI_1": "ipfs://QmZ5ae5Cg2pzxFsZatAuDuUnj5Dcap1VxFdUTqmysPC3Ep/1"
+    },
+    {
+      "snapshot_symbol": "FTH",
+      "address": "0x8743b1cec8939e456f05194503fbb6500a3ba67d",
+      "supply": 5000,
+      "name": "Fox and the Hounds",
+      "contract_symbol": "FTH",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://bafybeih2hv6lbydmen3ka4h2lauqgglmnyk4gqolagpk7rhspds2xintdy/1.json"
+    },
+    {
+      "snapshot_symbol": "Frog",
+      "address": "0xf6ee4a3f8529a6b20b8f4792a0ea20a419ba21f5",
+      "supply": 666,
+      "name": "PixelFrogs",
+      "contract_symbol": "Frog",
+      "tokenURI_0": null,
+      "tokenURI_1": "https://raw.githubusercontent.com/imzensuke/Frogs/Frogs/metadata/1.json"
+    },
+    {
+      "snapshot_symbol": "GMNFT",
+      "address": "0x491c67db959bda22e1061b43693ea3699675f080",
+      "supply": 66,
+      "name": "GrimaceMandalaNFT",
+      "contract_symbol": "GMNFT",
+      "tokenURI_0": "nft-grimace.com/api/metadata/1",
+      "tokenURI_1": "nft-grimace.com/api/metadata/2"
+    },
+    {
+      "snapshot_symbol": "Kimon",
+      "address": "0xd7f68f4349527dae381233daa120bb42e310c986",
+      "supply": 7563,
+      "name": "Kimon NFTs",
+      "contract_symbol": "Kimon",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "MASON",
+      "address": "0xf497d4826c3585cee69a0fd3b71b057d7056f64a",
+      "supply": 362,
+      "name": "All Seeing Eye",
+      "contract_symbol": "MASON",
+      "tokenURI_0": "ipfs://QmRkXUCX59DquAKpiSidaocNSZDtyixQkWVv5y7bjswArH/0",
+      "tokenURI_1": "ipfs://QmRkXUCX59DquAKpiSidaocNSZDtyixQkWVv5y7bjswArH/1"
+    },
+    {
+      "snapshot_symbol": "MONOS",
+      "address": "0x5f595ff1830b0bd9e67ae6376ad80598876cc34f",
+      "supply": 2449,
+      "name": "Monos",
+      "contract_symbol": "MONOS",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://QmUmbask76R2CEuEPdwSEWHy9PmAvP6sABZLaU81T8u5uS/1.json"
+    },
+    {
+      "snapshot_symbol": "McRIB Pix",
+      "address": "0x01d675a61d94aea570007374d85301d6619d9e6e",
+      "supply": 638,
+      "name": "McRibPixels",
+      "contract_symbol": "McRIB Pix",
+      "tokenURI_0": null,
+      "tokenURI_1": null
+    },
+    {
+      "snapshot_symbol": "PUNKS",
+      "address": "0xbeae0fd8ccecc76afcc137d89f2b006e8c543c84",
+      "supply": 10000,
+      "name": "DOGEPUNKS",
+      "contract_symbol": "PUNKS",
+      "tokenURI_0": "ipfs://bafybeibl2xlwzvhoifc6saka4xhq6petfkv36v4sy33onwewomqjxtddxm/0",
+      "tokenURI_1": "ipfs://bafybeibl2xlwzvhoifc6saka4xhq6petfkv36v4sy33onwewomqjxtddxm/1"
+    },
+    {
+      "snapshot_symbol": "RAT",
+      "address": "0xa2e57fa488cf272c87b066e2a3e0672c0c58784d",
+      "supply": 2076,
+      "name": "CryptoR.AT: Nightmares Edition",
+      "contract_symbol": "RAT",
+      "tokenURI_0": "https://api.cryptor.at/nightmares/nft/0",
+      "tokenURI_1": "https://api.cryptor.at/nightmares/nft/1,1493,2682,2580,1551,2026,1014,2576,2832"
+    },
+    {
+      "snapshot_symbol": "RDP",
+      "address": "0xd38b22794b308a2e55808a13d1e6a80c4be94fd5",
+      "supply": 10000,
+      "name": "Realdogepunks",
+      "contract_symbol": "RDP",
+      "tokenURI_0": null,
+      "tokenURI_1": "ipfs://bafybeiad2qisjt6a3gt2muzc33slhhlq2uyx62jzj5mueiespg5fgz74m4/1.json"
+    },
+    {
+      "snapshot_symbol": "SOVP",
+      "address": "0x63309a2b8f507f667da75c24013a2e18904cc19d",
+      "supply": 2408,
+      "name": "SOVPUNKS",
+      "contract_symbol": "SOVP",
+      "tokenURI_0": "ipfs://bafybeicmssdadxrqet2t6nap5swg4v7j5d7wkgww3qb7jayl4xuifjilga/0",
+      "tokenURI_1": "ipfs://bafybeicmssdadxrqet2t6nap5swg4v7j5d7wkgww3qb7jayl4xuifjilga/1"
+    },
+    {
+      "snapshot_symbol": "WTN",
+      "address": "0x5b68749a85e84cbf3a04526d87296d4d988462dc",
+      "supply": 789,
+      "name": "WORLD TOUR NFT",
+      "contract_symbol": "WTN",
+      "tokenURI_0": "ipfs://QmbQ8GBkDAMAYVLdmn3uR6rvvnhuLy1P8oGb3GdUvkR7BX/0",
+      "tokenURI_1": "ipfs://QmbQ8GBkDAMAYVLdmn3uR6rvvnhuLy1P8oGb3GdUvkR7BX/1"
+    },
+    {
+      "snapshot_symbol": "hMERK",
+      "address": "0xafa5f9313f1f2b599173f24807a882f498be118c",
+      "supply": 1520,
+      "name": "Merkly Hyperlane NFT",
+      "contract_symbol": "hMERK",
+      "tokenURI_0": "https://api.merkly.com/api/hmerk/0",
+      "tokenURI_1": "https://api.merkly.com/api/hmerk/1"
+    }
+  ]
+}
