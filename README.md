@@ -35,6 +35,31 @@ DOG-721 is Dogechain's native name for the ERC-721 NFT standard (analogous to DO
 - **Dogechain Name Service** — 0 supply, never launched
 - **NINJA HOPE NFT** — 18 supply, never launched
 
+
+## NFT Image Archive
+
+Token images downloaded from each collection's tokenURI metadata endpoint and stored in `nft_images/`. Not all collections had accessible metadata — those are marked with stub directories containing only `_summary.json`.
+
+| Collection | Images Archived |
+|------------|----------------|
+| RDP | 6,414 |
+| DOGEPUNKS | 5,552 |
+| DOGE-BEARS | 5,423 |
+| DCC2 | 3,400 |
+| CCHIMP | 2,691 |
+| SOVPUNKS | 1,754 |
+| SEADOGS | 1,446 |
+| BDKC2 | 1,230 |
+| PIXELFROGS | 666 |
+| FFNFTS | 482 |
+| MASON | 362 |
+| DTOOLS-2023 | 75 |
+| **Total** | **29,495** |
+
+Collections without downloadable images (metadata endpoints returned errors): TDH-NFT, MONOS, FTH, DOGEDOODLE, DOGE-BLINDERS, DH, DAYC2, CYBERDOGS, ASTRO.
+
+Scripts: `download_images.py` (original), `download_images_fast.py` (concurrent), `download_images_v3.py` (latest).
+
 ## Collections
 
 | Symbol | Name | Supply | Holders | Token IDs |
